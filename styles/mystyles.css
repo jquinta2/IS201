@@ -1,0 +1,20 @@
+/*Jeffrey Quintanilla, last edited 4/15/2022 */
+li {
+    font-style: italic;
+    font-weight: normal;
+}
+.bold {
+    font-style: normal;
+    font-weight: bold;
+}
+.normal {
+    font-style: normal;
+}
+.header {
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    height: 70px;
+    z-index: 3;
+    background-color: #7c4949;
+}
